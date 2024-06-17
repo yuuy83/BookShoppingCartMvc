@@ -269,6 +269,7 @@ D:\Working\CSE 443 dotnet\BookShoppingCartMvc\BookShoppingCartMvcUI\obj\Debug\ne
 D:\Working\CSE 443 dotnet\BookShoppingCartMvc\BookShoppingCartMvcUI\obj\Debug\net8.0\BookShoppingCartMvcUI.MvcApplicationPartsAssemblyInfo.cache
 D:\Working\CSE 443 dotnet\BookShoppingCartMvc\BookShoppingCartMvcUI\obj\Debug\net8.0\BookShoppingCartMvcUI.RazorAssemblyInfo.cache
 D:\Working\CSE 443 dotnet\BookShoppingCartMvc\BookShoppingCartMvcUI\obj\Debug\net8.0\BookShoppingCartMvcUI.RazorAssemblyInfo.cs
+D:\Working\CSE 443 dotnet\BookShoppingCartMvc\BookShoppingCartMvcUI\obj\Debug\net8.0\BookShoppingCartMvcUI.sourcelink.json
 D:\Working\CSE 443 dotnet\BookShoppingCartMvc\BookShoppingCartMvcUI\obj\Debug\net8.0\staticwebassets.build.json
 D:\Working\CSE 443 dotnet\BookShoppingCartMvc\BookShoppingCartMvcUI\obj\Debug\net8.0\staticwebassets.development.json
 D:\Working\CSE 443 dotnet\BookShoppingCartMvc\BookShoppingCartMvcUI\obj\Debug\net8.0\staticwebassets\msbuild.BookShoppingCartMvcUI.Microsoft.AspNetCore.StaticWebAssets.props
