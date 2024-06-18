@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "D:\\Working\\CSE 443 dotnet\\BookShoppingCartMvc\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{153552C0-17DB-4ED2-A0C6-54ECE3A598E5}|BookShoppingCartMvcUI\\BookShoppingCartMvcUI.csproj|D:\\Working\\CSE 443 dotnet\\BookShoppingCartMvc\\bookshoppingcartmvcui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{153552C0-17DB-4ED2-A0C6-54ECE3A598E5}|BookShoppingCartMvcUI\\BookShoppingCartMvcUI.csproj|d:\\working\\cse 443 dotnet\\bookshoppingcartmvc\\bookshoppingcartmvcui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{153552C0-17DB-4ED2-A0C6-54ECE3A598E5}|BookShoppingCartMvcUI\\BookShoppingCartMvcUI.csproj|solutionrelative:bookshoppingcartmvcui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{153552C0-17DB-4ED2-A0C6-54ECE3A598E5}|BookShoppingCartMvcUI\\BookShoppingCartMvcUI.csproj|d:\\working\\cse 443 dotnet\\bookshoppingcartmvc\\bookshoppingcartmvcui\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{153552C0-17DB-4ED2-A0C6-54ECE3A598E5}|BookShoppingCartMvcUI\\BookShoppingCartMvcUI.csproj|D:\\Working\\CSE 443 dotnet\\BookShoppingCartMvc\\bookshoppingcartmvcui\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{153552C0-17DB-4ED2-A0C6-54ECE3A598E5}|BookShoppingCartMvcUI\\BookShoppingCartMvcUI.csproj|solutionrelative:bookshoppingcartmvcui\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
@@ -96,7 +96,7 @@
               "RelativeDocumentMoniker": "BookShoppingCartMvcUI\\Views\\Home\\Index.cshtml",
               "ToolTip": "D:\\Working\\CSE 443 dotnet\\BookShoppingCartMvc\\BookShoppingCartMvcUI\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "BookShoppingCartMvcUI\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAACMAAAA6AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-06-16T13:06:09.845Z",
               "EditorCaption": ""
@@ -123,8 +123,7 @@
               "RelativeToolTip": "BookShoppingCartMvcUI\\Views\\Shared\\_LoginPartial.cshtml",
               "ViewState": "AQIAAAwAAAAAAAAAAAAAABwAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-14T07:23:46.777Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-14T07:23:46.777Z"
             }
           ]
         }
