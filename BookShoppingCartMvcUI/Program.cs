@@ -1,3 +1,4 @@
+using BookShoppingCartMvcUI;
 using BookShoppingCartMvcUI.Data;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
@@ -17,6 +18,8 @@ builder.Services
     .AddDefaultTokenProviders();
 
 builder.Services.AddControllersWithViews();
+builder.Services.AddTransient<IHomeRepository,HomeRepository>();
+builder.Services.AddTransient<ICartRepository,CartRepository>();
 
 var app = builder.Build();
 using (var scope = app.Services.CreateScope())
