@@ -1,35 +1,35 @@
 {
   "Files": [
     {
-      "Id": "D:\\Working\\CSE 443 dotnet\\BookShoppingCartMvc\\BookShoppingCartMvcUI\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BookShoppingCartMvcUI.bundle.scp.css",
+      "Id": "D:\\CSE443\\ProjectFinal\\BookShoppingCartMvc\\BookShoppingCartMvcUI\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BookShoppingCartMvcUI.bundle.scp.css",
       "PackagePath": "staticwebassets\\BookShoppingCartMvcUI.bundle.scp.css"
     },
     {
-      "Id": "D:\\Working\\CSE 443 dotnet\\BookShoppingCartMvc\\BookShoppingCartMvcUI\\wwwroot\\css\\bootstrap.min.css",
+      "Id": "D:\\CSE443\\ProjectFinal\\BookShoppingCartMvc\\BookShoppingCartMvcUI\\wwwroot\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\Working\\CSE 443 dotnet\\BookShoppingCartMvc\\BookShoppingCartMvcUI\\wwwroot\\favicon.ico",
+      "Id": "D:\\CSE443\\ProjectFinal\\BookShoppingCartMvc\\BookShoppingCartMvcUI\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "D:\\Working\\CSE 443 dotnet\\BookShoppingCartMvc\\BookShoppingCartMvcUI\\wwwroot\\images\\1.jpg",
+      "Id": "D:\\CSE443\\ProjectFinal\\BookShoppingCartMvc\\BookShoppingCartMvcUI\\wwwroot\\images\\1.jpg",
       "PackagePath": "staticwebassets\\images\\1.jpg"
     },
     {
-      "Id": "D:\\Working\\CSE 443 dotnet\\BookShoppingCartMvc\\BookShoppingCartMvcUI\\wwwroot\\images\\2.jpg",
+      "Id": "D:\\CSE443\\ProjectFinal\\BookShoppingCartMvc\\BookShoppingCartMvcUI\\wwwroot\\images\\2.jpg",
       "PackagePath": "staticwebassets\\images\\2.jpg"
     },
     {
-      "Id": "D:\\Working\\CSE 443 dotnet\\BookShoppingCartMvc\\BookShoppingCartMvcUI\\wwwroot\\images\\3.jpg",
+      "Id": "D:\\CSE443\\ProjectFinal\\BookShoppingCartMvc\\BookShoppingCartMvcUI\\wwwroot\\images\\3.jpg",
       "PackagePath": "staticwebassets\\images\\3.jpg"
     },
     {
-      "Id": "D:\\Working\\CSE 443 dotnet\\BookShoppingCartMvc\\BookShoppingCartMvcUI\\wwwroot\\images\\4.jpg",
+      "Id": "D:\\CSE443\\ProjectFinal\\BookShoppingCartMvc\\BookShoppingCartMvcUI\\wwwroot\\images\\4.jpg",
       "PackagePath": "staticwebassets\\images\\4.jpg"
     },
     {
-      "Id": "D:\\Working\\CSE 443 dotnet\\BookShoppingCartMvc\\BookShoppingCartMvcUI\\wwwroot\\images\\null.jpg",
+      "Id": "D:\\CSE443\\ProjectFinal\\BookShoppingCartMvc\\BookShoppingCartMvcUI\\wwwroot\\images\\null.jpg",
       "PackagePath": "staticwebassets\\images\\null.jpg"
     },
     {
