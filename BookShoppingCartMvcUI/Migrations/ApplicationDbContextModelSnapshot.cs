@@ -4,19 +4,16 @@ using BookShoppingCartMvcUI.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
-using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
 
-namespace BookShoppingCartMvcUI.Data.Migrations
+namespace BookShoppingCartMvcUI.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20240619124607_add-migration add-authorname-to-book")]
-    partial class addmigrationaddauthornametobook
+    partial class ApplicationDbContextModelSnapshot : ModelSnapshot
     {
-        /// <inheritdoc />
-        protected override void BuildTargetModel(ModelBuilder modelBuilder)
+        protected override void BuildModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -73,10 +70,7 @@ namespace BookShoppingCartMvcUI.Data.Migrations
                     b.Property<int>("Quantity")
                         .HasColumnType("int");
 
-                    b.Property<int?>("ShoppingCartId")
-                        .HasColumnType("int");
-
-                    b.Property<int>("ShoppingCart_Id")
+                    b.Property<int>("ShoppingCartId")
                         .HasColumnType("int");
 
                     b.HasKey("Id");
@@ -415,19 +409,21 @@ namespace BookShoppingCartMvcUI.Data.Migrations
 
             modelBuilder.Entity("BookShoppingCartMvcUI.Models.CartDetail", b =>
                 {
-                    b.HasOne("BookShoppingCartMvcUI.Models.Book", "book")
+                    b.HasOne("BookShoppingCartMvcUI.Models.Book", "Book")
                         .WithMany("CartDetail")
                         .HasForeignKey("BookId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
                     b.HasOne("BookShoppingCartMvcUI.Models.ShoppingCart", "ShoppingCart")
-                        .WithMany()
-                        .HasForeignKey("ShoppingCartId");
+                        .WithMany("CartDetails")
+                        .HasForeignKey("ShoppingCartId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Book");
 
                     b.Navigation("ShoppingCart");
-
-                    b.Navigation("book");
                 });
 
             modelBuilder.Entity("BookShoppingCartMvcUI.Models.Order", b =>
@@ -526,6 +522,11 @@ namespace BookShoppingCartMvcUI.Data.Migrations
             modelBuilder.Entity("BookShoppingCartMvcUI.Models.Order", b =>
                 {
                     b.Navigation("OrderDetails");
+                });
+
+            modelBuilder.Entity("BookShoppingCartMvcUI.Models.ShoppingCart", b =>
+                {
+                    b.Navigation("CartDetails");
                 });
 #pragma warning restore 612, 618
         }
