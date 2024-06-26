@@ -12,35 +12,50 @@ namespace BookShoppingCartMvcUI.Controllers
         {
             _cartRepo = cartRepo;
         }
-        public async Task< IActionResult> AddItem(int bookId, int qty = 1,int redirect=0)
+        public async Task<IActionResult> AddItem(int bookId, int qty = 1, int redirect = 0)
         {
             var cartCount = await _cartRepo.AddItem(bookId, qty);
             if (redirect == 0)
                 return Ok(cartCount);
             return RedirectToAction("GetUserCart");
-            
+
         }
-        public async Task< IActionResult> RemoveItem(int bookId)
+        public async Task<IActionResult> RemoveItem(int bookId)
         {
             var cartCount = await _cartRepo.RemoveItem(bookId);
             return RedirectToAction("GetUserCart");
         }
         public async Task<IActionResult> GetUserCart()
         {
-            var cart= await _cartRepo.GetUserCart();
+            var cart = await _cartRepo.GetUserCart();
             return View(cart);
         }
-        public async Task< IActionResult> GetTotalItemInCart()
+        public async Task<IActionResult> GetTotalItemInCart()
         {
-            int cartItem= await _cartRepo.GetCartItemCount();
+            int cartItem = await _cartRepo.GetCartItemCount();
             return Ok(cartItem);
         }
-        public async Task<IActionResult> Checkout()
+        public IActionResult Checkout()
         {
-            bool isCheckOut=await _cartRepo.DoCheckout();
+            return View();
+        }
+        [HttpPost]
+        public async Task<IActionResult> Checkout(CheckoutModel model)
+        {
+            if ((!ModelState.IsValid))
+                return View(model);
+            bool isCheckOut = await _cartRepo.DoCheckout(model);
             if (!isCheckOut)
-                throw new Exception("Something Wrong");
-            return RedirectToAction("Index", "Home");
+                return RedirectToAction(nameof(OrderFailure));
+            return RedirectToAction(nameof(OrderSuccess));
+        }
+        public IActionResult OrderSuccess()
+        {
+            return View();
+        }
+        public IActionResult OrderFailure()
+        {
+            return View();
         }
     }
 }
