@@ -1,0 +1,83 @@
+﻿@model IEnumerable<Order>
+@{
+}
+<div class="container mt-4">
+    <div class="d-flex justify-content-between align-items-center mb-4">
+        <h4>My Orders</h4>
+        <a href="/Identity/Account/Manage" class="btn btn-primary">Back</a>
+    </div>
+
+    @if (Model != null && Model.Count() > 0)
+    {
+        <div class="table-responsive">
+            <table class="table table-hover">
+                <thead class="thead-dark">
+                    <tr>
+                        <th>Order Date</th>
+                        <th>Order Status</th>
+                        <th>Total (INR)</th>
+                        <th>Details</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var order in Model)
+                    {
+                        <tr class="table-primary">
+                            <td class="font-weight-bold">@order.CreateDate.ToString("dd-MM-yyyy")</td>
+                            <td class="font-weight-bold">@order.OrderStatus.StatusName</td>
+                            <td class="font-weight-bold">@order.OrderDetails.Select(item => item.Book.Price * item.Quantity).Sum().ToString("C")</td>
+                            <td>
+                                <button class="btn btn-info btn-sm" type="button" data-toggle="collapse" data-target="#details-@order.Id" aria-expanded="false" aria-controls="details-@order.Id">Details</button>
+                            </td>
+                        </tr>
+                        @if (order.OrderDetails != null && order.OrderDetails.Count > 0)
+                        {
+                            <tr class="collapse" id="details-@order.Id">
+                                <td colspan="4">
+                                    <div class="table-responsive">
+                                        <table class="table table-striped">
+                                            <thead class="thead-light">
+                                                <tr>
+                                                    <th>Book</th>
+                                                    <th>Image</th>
+                                                    <th>Genre</th>
+                                                    <th>Unit Price (INR)</th>
+                                                    <th>Quantity</th>
+                                                    <th>Total Price (INR)</th>
+                                                </tr>
+                                            </thead>
+                                            <tbody>
+                                                @foreach (var item in order.OrderDetails)
+                                                {
+                                                    <tr>
+                                                        <td>@item.Book.BookName</td>
+                                                        <td>
+                                                            <img src="@(!string.IsNullOrEmpty(item.Book.Image) ? $"/images/{item.Book.Image}" : "/images/NoImage.png")" class="img-fluid" style="width: 80px; height: 100px;" />
+                                                        </td>
+                                                        <td>@item.Book.Genre.GenreName</td>
+                                                        <td>@item.Book.Price</td>
+                                                        <td>@item.Quantity</td>
+                                                        <td>@(item.Book.Price * item.Quantity)</td>
+                                                    </tr>
+                                                }
+                                            </tbody>
+                                        </table>
+                                    </div>
+                                </td>
+                            </tr>
+                        }
+                    }
+                </tbody>
+            </table>
+        </div>
+    }
+    else
+    {
+        <h5>No orders</h5>
+    }
+</div>
+
+@section Scripts {
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.bundle.min.js"></script>
+}

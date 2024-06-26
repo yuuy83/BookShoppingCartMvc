@@ -3,7 +3,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace BookShoppingCartMvcUI.Repositories
 {
-    public class UserOrderRepository: IUserOrderRepository
+    public class UserOrderRepository : IUserOrderRepository
     {
         private readonly ApplicationDbContext _db;
         private readonly UserManager<IdentityUser> _userManager;
@@ -16,15 +16,16 @@ namespace BookShoppingCartMvcUI.Repositories
             _httpContextAccessor = httpContextAccessor;
 
         }
-        public async Task <IEnumerable<Order>>UserOrders()
+        public async Task<IEnumerable<Order>> UserOrders()
         {
-            var userId=GetUserId();
+            var userId = GetUserId();
             if (string.IsNullOrEmpty(userId))
                 throw new Exception("User is not logged-in");
-            var orders =await _db.Orders
-                            .Include(x=>x.OrderDetails)
-                            .ThenInclude(x=>x.Book)
-                            .ThenInclude(x=>x.Genre)
+            var orders = await _db.Orders
+                            .Include(x => x.OrderStatus)
+                            .Include(x => x.OrderDetails)
+                            .ThenInclude(x => x.Book)
+                            .ThenInclude(x => x.Genre)
                             .Where(a => a.UserId == userId)
                             .ToListAsync();
             return orders;
