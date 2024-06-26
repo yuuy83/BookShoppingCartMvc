@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "D:\\CSE443\\ProjectFinal\\BookShoppingCartMvc\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{153552C0-17DB-4ED2-A0C6-54ECE3A598E5}|BookShoppingCartMvcUI\\BookShoppingCartMvcUI.csproj|d:\\cse443\\projectfinal\\bookshoppingcartmvc\\bookshoppingcartmvcui\\repositories\\iuserorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{153552C0-17DB-4ED2-A0C6-54ECE3A598E5}|BookShoppingCartMvcUI\\BookShoppingCartMvcUI.csproj|solutionrelative:bookshoppingcartmvcui\\repositories\\iuserorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{153552C0-17DB-4ED2-A0C6-54ECE3A598E5}|BookShoppingCartMvcUI\\BookShoppingCartMvcUI.csproj|d:\\cse443\\projectfinal\\bookshoppingcartmvc\\bookshoppingcartmvcui\\views\\adminoperations\\allorders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{153552C0-17DB-4ED2-A0C6-54ECE3A598E5}|BookShoppingCartMvcUI\\BookShoppingCartMvcUI.csproj|solutionrelative:bookshoppingcartmvcui\\views\\adminoperations\\allorders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{153552C0-17DB-4ED2-A0C6-54ECE3A598E5}|BookShoppingCartMvcUI\\BookShoppingCartMvcUI.csproj|d:\\cse443\\projectfinal\\bookshoppingcartmvc\\bookshoppingcartmvcui\\repositories\\userorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{153552C0-17DB-4ED2-A0C6-54ECE3A598E5}|BookShoppingCartMvcUI\\BookShoppingCartMvcUI.csproj|solutionrelative:bookshoppingcartmvcui\\repositories\\userorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "IUserOrderRepository.cs",
-              "DocumentMoniker": "D:\\CSE443\\ProjectFinal\\BookShoppingCartMvc\\BookShoppingCartMvcUI\\Repositories\\IUserOrderRepository.cs",
-              "RelativeDocumentMoniker": "BookShoppingCartMvcUI\\Repositories\\IUserOrderRepository.cs",
-              "ToolTip": "D:\\CSE443\\ProjectFinal\\BookShoppingCartMvc\\BookShoppingCartMvcUI\\Repositories\\IUserOrderRepository.cs",
-              "RelativeToolTip": "BookShoppingCartMvcUI\\Repositories\\IUserOrderRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Title": "AllOrders.cshtml",
+              "DocumentMoniker": "D:\\CSE443\\ProjectFinal\\BookShoppingCartMvc\\BookShoppingCartMvcUI\\Views\\AdminOperations\\AllOrders.cshtml",
+              "RelativeDocumentMoniker": "BookShoppingCartMvcUI\\Views\\AdminOperations\\AllOrders.cshtml",
+              "ToolTip": "D:\\CSE443\\ProjectFinal\\BookShoppingCartMvc\\BookShoppingCartMvcUI\\Views\\AdminOperations\\AllOrders.cshtml",
+              "RelativeToolTip": "BookShoppingCartMvcUI\\Views\\AdminOperations\\AllOrders.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAAkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T06:35:02.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserOrderRepository.cs",
+              "DocumentMoniker": "D:\\CSE443\\ProjectFinal\\BookShoppingCartMvc\\BookShoppingCartMvcUI\\Repositories\\UserOrderRepository.cs",
+              "RelativeDocumentMoniker": "BookShoppingCartMvcUI\\Repositories\\UserOrderRepository.cs",
+              "ToolTip": "D:\\CSE443\\ProjectFinal\\BookShoppingCartMvc\\BookShoppingCartMvcUI\\Repositories\\UserOrderRepository.cs",
+              "RelativeToolTip": "BookShoppingCartMvcUI\\Repositories\\UserOrderRepository.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwDgAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-26T05:49:26.622Z",
+              "WhenOpened": "2024-06-26T06:31:30.151Z",
               "EditorCaption": ""
             }
           ]
