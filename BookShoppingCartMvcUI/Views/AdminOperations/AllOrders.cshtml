@@ -36,7 +36,8 @@
                         <a asp-action="UpdateOrderStatus" asp-route-orderId="@order.Id" class="btn btn-info">Change Order Status</a>
                         <a asp-action="TogglePaymentStatus" asp-route-orderId="@order.Id" class="btn btn-info">Toggle Payment Status</a>
 
-                       
+                    @await Html.PartialAsync("/Views/AdminOperations/_OrderDetailModal.cshtml",new OrderDeatailModalDTO
+                    {DivId=order.Id.ToString(),OrderDetail=order.OrderDetails})   
                     </td>
 
                 </tr>
