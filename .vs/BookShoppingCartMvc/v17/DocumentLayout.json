@@ -1,29 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\CSE443\\ProjectFinal\\BookShoppingCartMvc\\",
+  "WorkspaceRootPath": "D:\\Working\\CSE 443 dotnet\\BookShoppingCartMvc\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{153552C0-17DB-4ED2-A0C6-54ECE3A598E5}|BookShoppingCartMvcUI\\BookShoppingCartMvcUI.csproj|d:\\cse443\\projectfinal\\bookshoppingcartmvc\\bookshoppingcartmvcui\\repositories\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{153552C0-17DB-4ED2-A0C6-54ECE3A598E5}|BookShoppingCartMvcUI\\BookShoppingCartMvcUI.csproj|d:\\working\\cse 443 dotnet\\bookshoppingcartmvc\\bookshoppingcartmvcui\\repositories\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{153552C0-17DB-4ED2-A0C6-54ECE3A598E5}|BookShoppingCartMvcUI\\BookShoppingCartMvcUI.csproj|solutionrelative:bookshoppingcartmvcui\\repositories\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{153552C0-17DB-4ED2-A0C6-54ECE3A598E5}|BookShoppingCartMvcUI\\BookShoppingCartMvcUI.csproj|d:\\cse443\\projectfinal\\bookshoppingcartmvc\\bookshoppingcartmvcui\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{153552C0-17DB-4ED2-A0C6-54ECE3A598E5}|BookShoppingCartMvcUI\\BookShoppingCartMvcUI.csproj|D:\\Working\\CSE 443 dotnet\\BookShoppingCartMvc\\bookshoppingcartmvcui\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{153552C0-17DB-4ED2-A0C6-54ECE3A598E5}|BookShoppingCartMvcUI\\BookShoppingCartMvcUI.csproj|solutionrelative:bookshoppingcartmvcui\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{153552C0-17DB-4ED2-A0C6-54ECE3A598E5}|BookShoppingCartMvcUI\\BookShoppingCartMvcUI.csproj|d:\\cse443\\projectfinal\\bookshoppingcartmvc\\bookshoppingcartmvcui\\views\\adminoperations\\updateorderstatus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{153552C0-17DB-4ED2-A0C6-54ECE3A598E5}|BookShoppingCartMvcUI\\BookShoppingCartMvcUI.csproj|D:\\Working\\CSE 443 dotnet\\BookShoppingCartMvc\\bookshoppingcartmvcui\\views\\adminoperations\\updateorderstatus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{153552C0-17DB-4ED2-A0C6-54ECE3A598E5}|BookShoppingCartMvcUI\\BookShoppingCartMvcUI.csproj|solutionrelative:bookshoppingcartmvcui\\views\\adminoperations\\updateorderstatus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{153552C0-17DB-4ED2-A0C6-54ECE3A598E5}|BookShoppingCartMvcUI\\BookShoppingCartMvcUI.csproj|d:\\cse443\\projectfinal\\bookshoppingcartmvc\\bookshoppingcartmvcui\\controllers\\adminoperationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{153552C0-17DB-4ED2-A0C6-54ECE3A598E5}|BookShoppingCartMvcUI\\BookShoppingCartMvcUI.csproj|D:\\Working\\CSE 443 dotnet\\BookShoppingCartMvc\\bookshoppingcartmvcui\\controllers\\adminoperationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{153552C0-17DB-4ED2-A0C6-54ECE3A598E5}|BookShoppingCartMvcUI\\BookShoppingCartMvcUI.csproj|solutionrelative:bookshoppingcartmvcui\\controllers\\adminoperationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{153552C0-17DB-4ED2-A0C6-54ECE3A598E5}|BookShoppingCartMvcUI\\BookShoppingCartMvcUI.csproj|d:\\cse443\\projectfinal\\bookshoppingcartmvc\\bookshoppingcartmvcui\\views\\adminoperations\\allorders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{153552C0-17DB-4ED2-A0C6-54ECE3A598E5}|BookShoppingCartMvcUI\\BookShoppingCartMvcUI.csproj|D:\\Working\\CSE 443 dotnet\\BookShoppingCartMvc\\bookshoppingcartmvcui\\views\\adminoperations\\allorders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{153552C0-17DB-4ED2-A0C6-54ECE3A598E5}|BookShoppingCartMvcUI\\BookShoppingCartMvcUI.csproj|solutionrelative:bookshoppingcartmvcui\\views\\adminoperations\\allorders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{153552C0-17DB-4ED2-A0C6-54ECE3A598E5}|BookShoppingCartMvcUI\\BookShoppingCartMvcUI.csproj|d:\\cse443\\projectfinal\\bookshoppingcartmvc\\bookshoppingcartmvcui\\repositories\\userorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{153552C0-17DB-4ED2-A0C6-54ECE3A598E5}|BookShoppingCartMvcUI\\BookShoppingCartMvcUI.csproj|D:\\Working\\CSE 443 dotnet\\BookShoppingCartMvc\\bookshoppingcartmvcui\\repositories\\userorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{153552C0-17DB-4ED2-A0C6-54ECE3A598E5}|BookShoppingCartMvcUI\\BookShoppingCartMvcUI.csproj|solutionrelative:bookshoppingcartmvcui\\repositories\\userorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -40,79 +40,75 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "CartRepository.cs",
-              "DocumentMoniker": "D:\\CSE443\\ProjectFinal\\BookShoppingCartMvc\\BookShoppingCartMvcUI\\Repositories\\CartRepository.cs",
+              "DocumentMoniker": "D:\\Working\\CSE 443 dotnet\\BookShoppingCartMvc\\BookShoppingCartMvcUI\\Repositories\\CartRepository.cs",
               "RelativeDocumentMoniker": "BookShoppingCartMvcUI\\Repositories\\CartRepository.cs",
-              "ToolTip": "D:\\CSE443\\ProjectFinal\\BookShoppingCartMvc\\BookShoppingCartMvcUI\\Repositories\\CartRepository.cs",
+              "ToolTip": "D:\\Working\\CSE 443 dotnet\\BookShoppingCartMvc\\BookShoppingCartMvcUI\\Repositories\\CartRepository.cs",
               "RelativeToolTip": "BookShoppingCartMvcUI\\Repositories\\CartRepository.cs",
-              "ViewState": "AQIAAGQAAAAAAAAAAAAwwGoAAAAAAAAA",
+              "ViewState": "AQIAAHoAAAAAAAAAAAAUwIcAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-26T06:57:31.092Z",
+              "WhenOpened": "2024-06-27T04:40:41.952Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "CartController.cs",
-              "DocumentMoniker": "D:\\CSE443\\ProjectFinal\\BookShoppingCartMvc\\BookShoppingCartMvcUI\\Controllers\\CartController.cs",
+              "DocumentMoniker": "D:\\Working\\CSE 443 dotnet\\BookShoppingCartMvc\\BookShoppingCartMvcUI\\Controllers\\CartController.cs",
               "RelativeDocumentMoniker": "BookShoppingCartMvcUI\\Controllers\\CartController.cs",
-              "ToolTip": "D:\\CSE443\\ProjectFinal\\BookShoppingCartMvc\\BookShoppingCartMvcUI\\Controllers\\CartController.cs",
+              "ToolTip": "D:\\Working\\CSE 443 dotnet\\BookShoppingCartMvc\\BookShoppingCartMvcUI\\Controllers\\CartController.cs",
               "RelativeToolTip": "BookShoppingCartMvcUI\\Controllers\\CartController.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAA/wCsAAAAIAAAA",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAwwCwAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-26T06:57:31.108Z",
+              "WhenOpened": "2024-06-26T18:10:16.385Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "UpdateOrderStatus.cshtml",
-              "DocumentMoniker": "D:\\CSE443\\ProjectFinal\\BookShoppingCartMvc\\BookShoppingCartMvcUI\\Views\\AdminOperations\\UpdateOrderStatus.cshtml",
+              "DocumentMoniker": "D:\\Working\\CSE 443 dotnet\\BookShoppingCartMvc\\BookShoppingCartMvcUI\\Views\\AdminOperations\\UpdateOrderStatus.cshtml",
               "RelativeDocumentMoniker": "BookShoppingCartMvcUI\\Views\\AdminOperations\\UpdateOrderStatus.cshtml",
-              "ToolTip": "D:\\CSE443\\ProjectFinal\\BookShoppingCartMvc\\BookShoppingCartMvcUI\\Views\\AdminOperations\\UpdateOrderStatus.cshtml",
+              "ToolTip": "D:\\Working\\CSE 443 dotnet\\BookShoppingCartMvc\\BookShoppingCartMvcUI\\Views\\AdminOperations\\UpdateOrderStatus.cshtml",
               "RelativeToolTip": "BookShoppingCartMvcUI\\Views\\AdminOperations\\UpdateOrderStatus.cshtml",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-26T07:20:03.655Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-26T18:10:16.403Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "AdminOperationsController.cs",
-              "DocumentMoniker": "D:\\CSE443\\ProjectFinal\\BookShoppingCartMvc\\BookShoppingCartMvcUI\\Controllers\\AdminOperationsController.cs",
+              "DocumentMoniker": "D:\\Working\\CSE 443 dotnet\\BookShoppingCartMvc\\BookShoppingCartMvcUI\\Controllers\\AdminOperationsController.cs",
               "RelativeDocumentMoniker": "BookShoppingCartMvcUI\\Controllers\\AdminOperationsController.cs",
-              "ToolTip": "D:\\CSE443\\ProjectFinal\\BookShoppingCartMvc\\BookShoppingCartMvcUI\\Controllers\\AdminOperationsController.cs",
+              "ToolTip": "D:\\Working\\CSE 443 dotnet\\BookShoppingCartMvc\\BookShoppingCartMvcUI\\Controllers\\AdminOperationsController.cs",
               "RelativeToolTip": "BookShoppingCartMvcUI\\Controllers\\AdminOperationsController.cs",
               "ViewState": "AQIAADwAAAAAAAAAAAAowDYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-26T07:11:05.2Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-26T18:10:16.405Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "AllOrders.cshtml",
-              "DocumentMoniker": "D:\\CSE443\\ProjectFinal\\BookShoppingCartMvc\\BookShoppingCartMvcUI\\Views\\AdminOperations\\AllOrders.cshtml",
+              "DocumentMoniker": "D:\\Working\\CSE 443 dotnet\\BookShoppingCartMvc\\BookShoppingCartMvcUI\\Views\\AdminOperations\\AllOrders.cshtml",
               "RelativeDocumentMoniker": "BookShoppingCartMvcUI\\Views\\AdminOperations\\AllOrders.cshtml",
-              "ToolTip": "D:\\CSE443\\ProjectFinal\\BookShoppingCartMvc\\BookShoppingCartMvcUI\\Views\\AdminOperations\\AllOrders.cshtml",
+              "ToolTip": "D:\\Working\\CSE 443 dotnet\\BookShoppingCartMvc\\BookShoppingCartMvcUI\\Views\\AdminOperations\\AllOrders.cshtml",
               "RelativeToolTip": "BookShoppingCartMvcUI\\Views\\AdminOperations\\AllOrders.cshtml",
               "ViewState": "AQIAABIAAAAAAAAAAAAAACcAAABNAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-26T06:35:02.715Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-26T18:10:16.407Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "UserOrderRepository.cs",
-              "DocumentMoniker": "D:\\CSE443\\ProjectFinal\\BookShoppingCartMvc\\BookShoppingCartMvcUI\\Repositories\\UserOrderRepository.cs",
+              "DocumentMoniker": "D:\\Working\\CSE 443 dotnet\\BookShoppingCartMvc\\BookShoppingCartMvcUI\\Repositories\\UserOrderRepository.cs",
               "RelativeDocumentMoniker": "BookShoppingCartMvcUI\\Repositories\\UserOrderRepository.cs",
-              "ToolTip": "D:\\CSE443\\ProjectFinal\\BookShoppingCartMvc\\BookShoppingCartMvcUI\\Repositories\\UserOrderRepository.cs",
+              "ToolTip": "D:\\Working\\CSE 443 dotnet\\BookShoppingCartMvc\\BookShoppingCartMvcUI\\Repositories\\UserOrderRepository.cs",
               "RelativeToolTip": "BookShoppingCartMvcUI\\Repositories\\UserOrderRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAADgAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-26T06:31:30.151Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-26T18:10:16.409Z"
             }
           ]
         }

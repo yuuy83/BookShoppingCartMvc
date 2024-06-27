@@ -8601,19 +8601,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\DELL\\.nuget\\packages\\": {}
+    "C:\\Users\\PANASONIC\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CSE443\\ProjectFinal\\BookShoppingCartMvc\\BookShoppingCartMvcUI\\BookShoppingCartMvcUI.csproj",
+      "projectUniqueName": "D:\\Working\\CSE 443 dotnet\\BookShoppingCartMvc\\BookShoppingCartMvcUI\\BookShoppingCartMvcUI.csproj",
       "projectName": "BookShoppingCartMvcUI",
-      "projectPath": "D:\\CSE443\\ProjectFinal\\BookShoppingCartMvc\\BookShoppingCartMvcUI\\BookShoppingCartMvcUI.csproj",
-      "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "D:\\CSE443\\ProjectFinal\\BookShoppingCartMvc\\BookShoppingCartMvcUI\\obj\\",
+      "projectPath": "D:\\Working\\CSE 443 dotnet\\BookShoppingCartMvc\\BookShoppingCartMvcUI\\BookShoppingCartMvcUI.csproj",
+      "packagesPath": "C:\\Users\\PANASONIC\\.nuget\\packages\\",
+      "outputPath": "D:\\Working\\CSE 443 dotnet\\BookShoppingCartMvc\\BookShoppingCartMvcUI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\PANASONIC\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

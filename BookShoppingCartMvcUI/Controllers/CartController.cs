@@ -41,7 +41,7 @@ namespace BookShoppingCartMvcUI.Controllers
         }
         [HttpPost]
         public async Task<IActionResult> Checkout(CheckoutModel model)
-        {
+       {
             if ((!ModelState.IsValid))
                 return View(model);
             bool isCheckOut = await _cartRepo.DoCheckout(model);
