@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "cuZM1eWcCYD/6M+X0XyVzCkCov9rqzwKkfPUewRwsDg=",
+  "Hash": "Pbiy/o1AiNqRXBV4eFsJeK4Tj77eKziv/GL6AX4T0mE=",
   "Source": "BookShoppingCartMvcUI",
   "BasePath": "_content/BookShoppingCartMvcUI",
   "Mode": "Default",
@@ -1307,6 +1307,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\4.jpg"
+    },
+    {
+      "Identity": "D:\\Working\\CSE 443 dotnet\\BookShoppingCartMvc\\BookShoppingCartMvcUI\\wwwroot\\images\\9f8345b5-3034-47fc-8ea2-5553bab83074.png",
+      "SourceId": "BookShoppingCartMvcUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Working\\CSE 443 dotnet\\BookShoppingCartMvc\\BookShoppingCartMvcUI\\wwwroot\\",
+      "BasePath": "_content/BookShoppingCartMvcUI",
+      "RelativePath": "images/9f8345b5-3034-47fc-8ea2-5553bab83074.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\9f8345b5-3034-47fc-8ea2-5553bab83074.png"
     },
     {
       "Identity": "D:\\Working\\CSE 443 dotnet\\BookShoppingCartMvc\\BookShoppingCartMvcUI\\wwwroot\\images\\null.jpg",
