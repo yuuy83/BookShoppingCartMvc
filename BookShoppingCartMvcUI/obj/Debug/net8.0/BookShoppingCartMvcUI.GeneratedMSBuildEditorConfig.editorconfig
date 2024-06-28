@@ -210,6 +210,18 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxPcmRlclN1Y2Nlc3MuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/Working/CSE 443 dotnet/BookShoppingCartMvc/BookShoppingCartMvcUI/Views/Genre/AddGenre.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VucmVcQWRkR2VucmUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Working/CSE 443 dotnet/BookShoppingCartMvc/BookShoppingCartMvcUI/Views/Genre/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VucmVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Working/CSE 443 dotnet/BookShoppingCartMvc/BookShoppingCartMvcUI/Views/Genre/UpdateGenre.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VucmVcVXBkYXRlR2VucmUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Working/CSE 443 dotnet/BookShoppingCartMvc/BookShoppingCartMvcUI/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -226,8 +238,20 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/Working/CSE 443 dotnet/BookShoppingCartMvc/BookShoppingCartMvcUI/Views/Shared/_Notifications.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Ob3RpZmljYXRpb25zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Working/CSE 443 dotnet/BookShoppingCartMvc/BookShoppingCartMvcUI/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Working/CSE 443 dotnet/BookShoppingCartMvc/BookShoppingCartMvcUI/Views/Stock/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RvY2tcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Working/CSE 443 dotnet/BookShoppingCartMvc/BookShoppingCartMvcUI/Views/Stock/ManangeStock.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RvY2tcTWFuYW5nZVN0b2NrLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Working/CSE 443 dotnet/BookShoppingCartMvc/BookShoppingCartMvcUI/Views/UserOrder/UserOrders.cshtml]
@@ -241,6 +265,10 @@ build_metadata.AdditionalFiles.CssScope =
 [D:/Working/CSE 443 dotnet/BookShoppingCartMvc/BookShoppingCartMvcUI/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Working/CSE 443 dotnet/BookShoppingCartMvc/BookShoppingCartMvcUI/Views/Shared/_AdminLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BZG1pbkxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-kttj977fhi
 
 [D:/Working/CSE 443 dotnet/BookShoppingCartMvc/BookShoppingCartMvcUI/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
