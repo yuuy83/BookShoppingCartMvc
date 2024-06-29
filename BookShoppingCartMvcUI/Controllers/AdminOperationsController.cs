@@ -76,7 +76,7 @@ public class AdminOperationsController : Controller
         return RedirectToAction(nameof(UpdateOrderStatus), new { orderId = data.OrderId });
     }
 
-    public IActionResult Index()
+    public IActionResult DashBoard()
     {
         return View();
     }

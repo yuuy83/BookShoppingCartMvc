@@ -25,7 +25,8 @@ builder.Services.AddTransient<IUserOrderRepository, UserOrderRepository>();
 builder.Services.AddTransient<IStockRepository, StockRepository>();
 builder.Services.AddTransient<IGenreRepository, GenreRepository>();
 builder.Services.AddTransient<IFileService, FileService>();
-builder.Services.AddTransient<IBookRepository,BookRepository>();
+builder.Services.AddTransient<IBookRepository, BookRepository>();
+builder.Services.AddTransient<IReportRepository, ReportRepository>();
 
 
 var app = builder.Build();
