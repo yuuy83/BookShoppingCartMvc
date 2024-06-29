@@ -1,39 +1,67 @@
 {
   "Files": [
     {
-      "Id": "D:\\Working\\CSE 443 dotnet\\BookShoppingCartMvc\\BookShoppingCartMvcUI\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BookShoppingCartMvcUI.bundle.scp.css",
+      "Id": "D:\\CSE443\\ProjectFinal\\BookShoppingCartMvc\\BookShoppingCartMvcUI\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BookShoppingCartMvcUI.bundle.scp.css",
       "PackagePath": "staticwebassets\\BookShoppingCartMvcUI.bundle.scp.css"
     },
     {
-      "Id": "D:\\Working\\CSE 443 dotnet\\BookShoppingCartMvc\\BookShoppingCartMvcUI\\wwwroot\\css\\bootstrap.min.css",
+      "Id": "D:\\CSE443\\ProjectFinal\\BookShoppingCartMvc\\BookShoppingCartMvcUI\\wwwroot\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\Working\\CSE 443 dotnet\\BookShoppingCartMvc\\BookShoppingCartMvcUI\\wwwroot\\favicon.ico",
+      "Id": "D:\\CSE443\\ProjectFinal\\BookShoppingCartMvc\\BookShoppingCartMvcUI\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "D:\\Working\\CSE 443 dotnet\\BookShoppingCartMvc\\BookShoppingCartMvcUI\\wwwroot\\images\\1.jpg",
+      "Id": "D:\\CSE443\\ProjectFinal\\BookShoppingCartMvc\\BookShoppingCartMvcUI\\wwwroot\\images\\1.jpg",
       "PackagePath": "staticwebassets\\images\\1.jpg"
     },
     {
-      "Id": "D:\\Working\\CSE 443 dotnet\\BookShoppingCartMvc\\BookShoppingCartMvcUI\\wwwroot\\images\\2.jpg",
+      "Id": "D:\\CSE443\\ProjectFinal\\BookShoppingCartMvc\\BookShoppingCartMvcUI\\wwwroot\\images\\160d7599-c6d0-42f8-a586-300f99353dd7.png",
+      "PackagePath": "staticwebassets\\images\\160d7599-c6d0-42f8-a586-300f99353dd7.png"
+    },
+    {
+      "Id": "D:\\CSE443\\ProjectFinal\\BookShoppingCartMvc\\BookShoppingCartMvcUI\\wwwroot\\images\\2.jpg",
       "PackagePath": "staticwebassets\\images\\2.jpg"
     },
     {
-      "Id": "D:\\Working\\CSE 443 dotnet\\BookShoppingCartMvc\\BookShoppingCartMvcUI\\wwwroot\\images\\3.jpg",
+      "Id": "D:\\CSE443\\ProjectFinal\\BookShoppingCartMvc\\BookShoppingCartMvcUI\\wwwroot\\images\\3.jpg",
       "PackagePath": "staticwebassets\\images\\3.jpg"
     },
     {
-      "Id": "D:\\Working\\CSE 443 dotnet\\BookShoppingCartMvc\\BookShoppingCartMvcUI\\wwwroot\\images\\4.jpg",
+      "Id": "D:\\CSE443\\ProjectFinal\\BookShoppingCartMvc\\BookShoppingCartMvcUI\\wwwroot\\images\\4.jpg",
       "PackagePath": "staticwebassets\\images\\4.jpg"
     },
     {
-      "Id": "D:\\Working\\CSE 443 dotnet\\BookShoppingCartMvc\\BookShoppingCartMvcUI\\wwwroot\\images\\9f8345b5-3034-47fc-8ea2-5553bab83074.png",
+      "Id": "D:\\CSE443\\ProjectFinal\\BookShoppingCartMvc\\BookShoppingCartMvcUI\\wwwroot\\images\\5dc466d0-84d7-4d3b-a864-d8273dafe3d4.jpg",
+      "PackagePath": "staticwebassets\\images\\5dc466d0-84d7-4d3b-a864-d8273dafe3d4.jpg"
+    },
+    {
+      "Id": "D:\\CSE443\\ProjectFinal\\BookShoppingCartMvc\\BookShoppingCartMvcUI\\wwwroot\\images\\6261eccc-2704-4824-97df-a3395d78a63c.png",
+      "PackagePath": "staticwebassets\\images\\6261eccc-2704-4824-97df-a3395d78a63c.png"
+    },
+    {
+      "Id": "D:\\CSE443\\ProjectFinal\\BookShoppingCartMvc\\BookShoppingCartMvcUI\\wwwroot\\images\\656956f6-8a5f-4ba4-80ce-7975f36b69fb.png",
+      "PackagePath": "staticwebassets\\images\\656956f6-8a5f-4ba4-80ce-7975f36b69fb.png"
+    },
+    {
+      "Id": "D:\\CSE443\\ProjectFinal\\BookShoppingCartMvc\\BookShoppingCartMvcUI\\wwwroot\\images\\6d5d898c-66c2-4140-be2d-00e165e445da.png",
+      "PackagePath": "staticwebassets\\images\\6d5d898c-66c2-4140-be2d-00e165e445da.png"
+    },
+    {
+      "Id": "D:\\CSE443\\ProjectFinal\\BookShoppingCartMvc\\BookShoppingCartMvcUI\\wwwroot\\images\\9f8345b5-3034-47fc-8ea2-5553bab83074.png",
       "PackagePath": "staticwebassets\\images\\9f8345b5-3034-47fc-8ea2-5553bab83074.png"
     },
     {
-      "Id": "D:\\Working\\CSE 443 dotnet\\BookShoppingCartMvc\\BookShoppingCartMvcUI\\wwwroot\\images\\null.jpg",
+      "Id": "D:\\CSE443\\ProjectFinal\\BookShoppingCartMvc\\BookShoppingCartMvcUI\\wwwroot\\images\\b6fb5ebe-e312-4f43-be75-dec7fcf297f0.png",
+      "PackagePath": "staticwebassets\\images\\b6fb5ebe-e312-4f43-be75-dec7fcf297f0.png"
+    },
+    {
+      "Id": "D:\\CSE443\\ProjectFinal\\BookShoppingCartMvc\\BookShoppingCartMvcUI\\wwwroot\\images\\d9b91244-beb2-412f-b796-4ed43037d190.png",
+      "PackagePath": "staticwebassets\\images\\d9b91244-beb2-412f-b796-4ed43037d190.png"
+    },
+    {
+      "Id": "D:\\CSE443\\ProjectFinal\\BookShoppingCartMvc\\BookShoppingCartMvcUI\\wwwroot\\images\\null.jpg",
       "PackagePath": "staticwebassets\\images\\null.jpg"
     },
     {

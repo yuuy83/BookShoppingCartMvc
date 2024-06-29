@@ -575,3 +575,4 @@ D:\CSE443\ProjectFinal\BookShoppingCartMvc\BookShoppingCartMvcUI\obj\Debug\net8.
 D:\CSE443\ProjectFinal\BookShoppingCartMvc\BookShoppingCartMvcUI\obj\Debug\net8.0\BookShoppingCartMvcUI.genruntimeconfig.cache
 D:\CSE443\ProjectFinal\BookShoppingCartMvc\BookShoppingCartMvcUI\obj\Debug\net8.0\ref\BookShoppingCartMvcUI.dll
 D:\Working\CSE 443 dotnet\BookShoppingCartMvc\BookShoppingCartMvcUI\obj\Debug\net8.0\scopedcss\Views\Shared\_AdminLayout.cshtml.rz.scp.css
+D:\CSE443\ProjectFinal\BookShoppingCartMvc\BookShoppingCartMvcUI\obj\Debug\net8.0\scopedcss\Views\Shared\_AdminLayout.cshtml.rz.scp.css
